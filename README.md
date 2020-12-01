@@ -1,2 +1,0 @@
-# Info
-Projet info python
